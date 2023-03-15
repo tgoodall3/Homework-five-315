@@ -1,0 +1,27 @@
+h1{
+    display: flex;
+    margin-left: 520px;
+    margin-bottom: 70px;
+    padding: 30px;
+}
+
+.game-holder{
+    width: 250px;
+    height:250px;
+    margin-bottom: 30px;
+    border-bottom: solid 1px black;
+    text-align: center;
+
+    span{
+        font-weight: bold;
+    }
+}
+
+
+#app{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
